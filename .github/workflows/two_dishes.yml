@@ -49,7 +49,8 @@ jobs:
           mv data/new-data.zip data/香港兩餸飯地圖.zip
 
       - name: Extract some files
-        run: unzip data/香港兩餸飯地圖.zip
+        run: rm doc.kml
+             unzip data/香港兩餸飯地圖.zip
 
       - name: Commit and Push Changes
         if: steps.check-csv.outcome == 'success' && env.DIFFERENT_CSV == 'true'
