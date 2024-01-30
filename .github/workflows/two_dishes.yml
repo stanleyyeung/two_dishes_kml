@@ -51,6 +51,9 @@ jobs:
       - name: Remove existing kml file
         run: rm doc.kml
 
+      - name: Remove existing images folder
+        run: rm -rf images
+
       - name: Extract some files
         run: unzip data/香港兩餸飯地圖.zip
 
