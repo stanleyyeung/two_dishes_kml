@@ -15,7 +15,7 @@ jobs:
 
       - name: Download New CSV
         run: |
-          if curl -o data/new-data.kml https://www.google.com/maps/d/kml?forcekml=1&mid=1ajJqZDkUYSqW5JDGs554Z6C560SvXTBx; then
+          if curl -o data/new-data.kml https://www.google.com/maps/d/kml?mid=1ajJqZDkUYSqW5JDGs554Z6C560SvXTBx&forcekml=1; then
             echo "CSV download successful."
           else
             echo "CSV download failed."
