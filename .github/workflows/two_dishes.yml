@@ -15,7 +15,7 @@ jobs:
 
       - name: Download New CSV
         run: |
-          if curl -o data/new-data.csv https://catalogue.data.gov.bc.ca/dataset/4cc207cc-ff03-44f8-8c5f-415af5224646/resource/9a9f14e1-03ea-4a11-936a-6e77b15eeb39/download/childcare_locations.csv; then
+          if curl -o data/new-data.kml https://www.google.com/maps/d/kml?forcekml=1&mid=1ajJqZDkUYSqW5JDGs554Z6C560SvXTBx; then
             echo "CSV download successful."
           else
             echo "CSV download failed."
@@ -25,7 +25,7 @@ jobs:
       - name: Check CSV File Size
         id: check-csv
         run: |
-          if [ -s data/new-data.csv ]; then
+          if [ -s data/new-data.kml ]; then
             echo "CSV file is not empty."
           else
             echo "CSV file is empty."
@@ -35,7 +35,7 @@ jobs:
       - name: Check for Differences
         id: check-differences
         run: |
-          if ! diff -q data/new-data.csv data/childcare_locations.csv; then
+          if ! diff -q data/new-data.kml data/香港兩餸飯地圖.kml; then
             echo "CSV files are different."
             echo "DIFFERENT_CSV=true" >> $GITHUB_ENV
           else
@@ -46,7 +46,7 @@ jobs:
       - name: Overwrite CSV
         if: steps.check-csv.outcome == 'success' && env.DIFFERENT_CSV == 'true'
         run: |
-          mv data/new-data.csv data/childcare_locations.csv
+          mv data/new-data.kml data/香港兩餸飯地圖.kml
 
       - name: Commit and Push Changes
         if: steps.check-csv.outcome == 'success' && env.DIFFERENT_CSV == 'true'
@@ -59,7 +59,7 @@ jobs:
 
           git checkout -b "$branch_name"
 
-          git add data/childcare_locations.csv
+          git add data/香港兩餸飯地圖.csv
 
           git commit -m "Update CSV file"
 
