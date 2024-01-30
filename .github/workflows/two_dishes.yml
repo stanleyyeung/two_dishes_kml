@@ -62,7 +62,7 @@ jobs:
 
           git checkout -b "$branch_name"
 
-          git add data/香港兩餸飯地圖.zip
+          git add data/doc.kml
 
           git commit -m "Update CSV file"
 
