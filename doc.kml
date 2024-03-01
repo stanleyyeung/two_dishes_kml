@@ -3455,12 +3455,12 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>(土瓜灣)9號美食</name>
-        <description><![CDATA[時間戳記: 2022/1/6<br>區域: 九龍城區<br>街道(請盡量提供街號): 馬頭圍道450號<br>商場／大廈: <br>店號/單位號碼: 地下A鋪<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $37<br>價錢(每加一餸): <br>價錢(三餸飯): $45<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.3198984<br>Longitude: 114.1873823]]></description>
+        <name>(土瓜灣)大大碟三餸飯</name>
+        <description><![CDATA[時間戳記: 2024/3/2<br>區域: 九龍城區<br>街道(請盡量提供街號): 馬頭圍道450號<br>商場／大廈: <br>店號/單位號碼: 地下A鋪<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $33<br>價錢(每加一餸): <br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): 45(雙)/55(三)<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3198984<br>Longitude: 114.1873823]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/1/6</value>
+            <value>2024/3/2</value>
           </Data>
           <Data name="區域">
             <value>九龍城區</value>
@@ -3481,25 +3481,25 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$37</value>
+            <value>$33</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$45</value>
+            <value>$40</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value/>
+            <value>45(雙)/55(三)</value>
           </Data>
           <Data name="淨餸可否雙併?">
-            <value/>
+            <value>可以</value>
           </Data>
           <Data name="價錢(白飯)">
-            <value/>
+            <value>$10</value>
           </Data>
           <Data name="有無例湯供應？">
             <value>有</value>
@@ -3523,13 +3523,13 @@
             <value/>
           </Data>
           <Data name="堂食">
-            <value>沒有</value>
+            <value>有</value>
           </Data>
           <Data name="座位數量 (如適用)">
             <value/>
           </Data>
           <Data name="外賣平台">
-            <value/>
+            <value>無</value>
           </Data>
           <Data name="補充資料／評價">
             <value/>
@@ -3549,7 +3549,7 @@
       </Placemark>
       <Placemark>
         <name>(土瓜灣)三多美食</name>
-        <description><![CDATA[時間戳記: 2023/11/24<br>區域: 九龍城區<br>街道(請盡量提供街號): 北帝街27號<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $33<br>價錢(每加一餸): <br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): 單$40/雙$45/三$50<br>淨餸可否雙併?: <br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): 跟飯＋$3 單獨買$6<br>有無飲品（啡／茶）供應？: <br>飲品選擇: 汽水 豆漿<br>價錢(飲品): 汽水跟飯＋$5 單獨買$10，豆漿跟飯＋$3<br>營業時間（開門): 上午 10:30:00<br>營業時間（關門): 下午 9:00:00<br>堂食: 有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.320838<br>Longitude: 114.1880445]]></description>
+        <description><![CDATA[時間戳記: 2023/11/24<br>區域: 九龍城區<br>街道(請盡量提供街號): 北帝街27號<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $33<br>價錢(每加一餸): <br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): 單$40/雙$45/三$50<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): 跟飯＋$3 單獨買$6<br>有無飲品（啡／茶）供應？: <br>飲品選擇: 汽水 豆漿<br>價錢(飲品): 汽水跟飯＋$5 單獨買$10，豆漿跟飯＋$3<br>營業時間（開門): 上午 10:30:00<br>營業時間（關門): 下午 9:00:00<br>堂食: 有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.320838<br>Longitude: 114.1880445]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
@@ -3589,7 +3589,7 @@
             <value>單$40/雙$45/三$50</value>
           </Data>
           <Data name="淨餸可否雙併?">
-            <value/>
+            <value>可以</value>
           </Data>
           <Data name="價錢(白飯)">
             <value>$10</value>
