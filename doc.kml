@@ -15,7 +15,7 @@
       <name>兩餸飯店</name>
       <Placemark>
         <name>(九龍城)泰風情</name>
-        <description><![CDATA[時間戳記: 2024/2/23<br>區域: 九龍城區<br>街道(請盡量提供街號): 衙前圍道62號<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $37<br>價錢(每加一餸): $8<br>價錢(三餸飯): <br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): 跟餐<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 冷熱飲品<br>價錢(飲品): $5<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 20<br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.329065<br>Longitude: 114.190603]]></description>
+        <description><![CDATA[時間戳記: 2024/2/23<br>區域: 九龍城區<br>街道(請盡量提供街號): 衙前圍道62號<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $37<br>價錢(每加一餸): $8<br>價錢(三餸飯): <br>價錢(四餸飯): <br>價錢(淨餸): $47<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): 跟餐<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 冷熱飲品<br>價錢(飲品): $5<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 20<br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.329065<br>Longitude: 114.190603]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
@@ -52,7 +52,7 @@
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value/>
+            <value>$47</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
@@ -108,11 +108,11 @@
       </Placemark>
       <Placemark>
         <name>(九龍城)張和隆飯店</name>
-        <description><![CDATA[時間戳記: 2022/1/14<br>區域: 九龍城區<br>街道(請盡量提供街號): 九龍城賈炳達道65號<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): 咕嚕肉 炒飯 魚香茄子<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $33<br>價錢(每加一餸): $7<br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): $40<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: <br>飲品選擇: 汽水、奶茶、咖啡<br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 12<br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.3304273<br>Longitude: 114.1906096]]></description>
+        <description><![CDATA[時間戳記: 2022/3/3<br>區域: 九龍城區<br>街道(請盡量提供街號): 九龍城賈炳達道65號<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): 咕嚕肉 炒飯 魚香茄子<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $37<br>價錢(每加一餸): <br>價錢(三餸飯): $44<br>價錢(四餸飯): <br>價錢(淨餸): $44<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): 跟餐<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 汽水、奶茶、咖啡<br>價錢(飲品): $8<br>營業時間（開門): 上午 10:30:00<br>營業時間（關門): 下午 8:00:00<br>堂食: 有<br>座位數量 (如適用): 8<br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3304273<br>Longitude: 114.1906096]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/1/14</value>
+            <value>2022/3/3</value>
           </Data>
           <Data name="區域">
             <value>九龍城區</value>
@@ -133,19 +133,19 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$33</value>
+            <value>$37</value>
           </Data>
           <Data name="價錢(每加一餸)">
-            <value>$7</value>
+            <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$40</value>
+            <value>$44</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value>$40</value>
+            <value>$44</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
@@ -157,31 +157,31 @@
             <value>有</value>
           </Data>
           <Data name="價錢(例湯)">
-            <value/>
+            <value>跟餐</value>
           </Data>
           <Data name="有無飲品（啡／茶）供應？">
-            <value/>
+            <value>有</value>
           </Data>
           <Data name="飲品選擇">
             <value>汽水、奶茶、咖啡</value>
           </Data>
           <Data name="價錢(飲品)">
-            <value/>
+            <value>$8</value>
           </Data>
           <Data name="營業時間（開門)">
-            <value/>
+            <value>上午 10:30:00</value>
           </Data>
           <Data name="營業時間（關門)">
-            <value/>
+            <value>下午 8:00:00</value>
           </Data>
           <Data name="堂食">
             <value>有</value>
           </Data>
           <Data name="座位數量 (如適用)">
-            <value>12</value>
+            <value>8</value>
           </Data>
           <Data name="外賣平台">
-            <value/>
+            <value>無</value>
           </Data>
           <Data name="補充資料／評價">
             <value/>
@@ -1968,11 +1968,11 @@
       </Placemark>
       <Placemark>
         <name>(上水)膳廚</name>
-        <description><![CDATA[時間戳記: 2023/3/16<br>區域: 北區<br>街道(請盡量提供街號): 上水新成路88號<br>商場／大廈: 海禧廣場<br>店號/單位號碼: 55<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $30<br>價錢(每加一餸): $10<br>價錢(三餸飯): $35<br>價錢(四餸飯): <br>價錢(淨餸): $30<br>淨餸可否雙併?: 可以<br>價錢(白飯): $8<br>有無例湯供應？: 有<br>價錢(例湯): $0<br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: 罐裝<br>價錢(飲品): 5，8，10，18<br>營業時間（開門): 上午 11:00:00<br>營業時間（關門): 下午 8:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.50471<br>Longitude: 114.128865]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 北區<br>街道(請盡量提供街號): 上水新成路88號<br>商場／大廈: 海禧廣場<br>店號/單位號碼: 55<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $30<br>價錢(每加一餸): <br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: 可以<br>價錢(白飯): $8<br>有無例湯供應？: 有<br>價錢(例湯): $0<br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: 罐裝<br>價錢(飲品): 5，8，10，18<br>營業時間（開門): 上午 11:00:00<br>營業時間（關門): 下午 8:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.50471<br>Longitude: 114.128865]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2023/3/16</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>北區</value>
@@ -1996,16 +1996,16 @@
             <value>$30</value>
           </Data>
           <Data name="價錢(每加一餸)">
-            <value>$10</value>
+            <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$35</value>
+            <value>$40</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value>$30</value>
+            <value/>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
@@ -3455,99 +3455,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>(土瓜灣)大大碟三餸飯</name>
-        <description><![CDATA[時間戳記: 2024/3/2<br>區域: 九龍城區<br>街道(請盡量提供街號): 馬頭圍道450號<br>商場／大廈: <br>店號/單位號碼: 地下A鋪<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $33<br>價錢(每加一餸): <br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): 45(雙)/55(三)<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3198984<br>Longitude: 114.1873823]]></description>
-        <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
-        <ExtendedData>
-          <Data name="時間戳記">
-            <value>2024/3/2</value>
-          </Data>
-          <Data name="區域">
-            <value>九龍城區</value>
-          </Data>
-          <Data name="街道(請盡量提供街號)">
-            <value>馬頭圍道450號</value>
-          </Data>
-          <Data name="商場／大廈">
-            <value/>
-          </Data>
-          <Data name="店號/單位號碼">
-            <value>地下A鋪</value>
-          </Data>
-          <Data name="推介菜(最多三項)">
-            <value/>
-          </Data>
-          <Data name="中伏菜式(最多三項)">
-            <value/>
-          </Data>
-          <Data name="價錢(兩餸飯)">
-            <value>$33</value>
-          </Data>
-          <Data name="價錢(每加一餸)">
-            <value/>
-          </Data>
-          <Data name="價錢(三餸飯)">
-            <value>$40</value>
-          </Data>
-          <Data name="價錢(四餸飯)">
-            <value/>
-          </Data>
-          <Data name="價錢(淨餸)">
-            <value>45(雙)/55(三)</value>
-          </Data>
-          <Data name="淨餸可否雙併?">
-            <value>可以</value>
-          </Data>
-          <Data name="價錢(白飯)">
-            <value>$10</value>
-          </Data>
-          <Data name="有無例湯供應？">
-            <value>有</value>
-          </Data>
-          <Data name="價錢(例湯)">
-            <value/>
-          </Data>
-          <Data name="有無飲品（啡／茶）供應？">
-            <value>有</value>
-          </Data>
-          <Data name="飲品選擇">
-            <value/>
-          </Data>
-          <Data name="價錢(飲品)">
-            <value/>
-          </Data>
-          <Data name="營業時間（開門)">
-            <value/>
-          </Data>
-          <Data name="營業時間（關門)">
-            <value/>
-          </Data>
-          <Data name="堂食">
-            <value>有</value>
-          </Data>
-          <Data name="座位數量 (如適用)">
-            <value/>
-          </Data>
-          <Data name="外賣平台">
-            <value>無</value>
-          </Data>
-          <Data name="補充資料／評價">
-            <value/>
-          </Data>
-          <Data name="Latitude">
-            <value>22.3198984</value>
-          </Data>
-          <Data name="Longitude">
-            <value>114.1873823</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            114.1873823,22.3198984,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>(土瓜灣)三多美食</name>
         <description><![CDATA[時間戳記: 2023/11/24<br>區域: 九龍城區<br>街道(請盡量提供街號): 北帝街27號<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $33<br>價錢(每加一餸): <br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): 單$40/雙$45/三$50<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): 跟飯＋$3 單獨買$6<br>有無飲品（啡／茶）供應？: <br>飲品選擇: 汽水 豆漿<br>價錢(飲品): 汽水跟飯＋$5 單獨買$10，豆漿跟飯＋$3<br>營業時間（開門): 上午 10:30:00<br>營業時間（關門): 下午 9:00:00<br>堂食: 有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.320838<br>Longitude: 114.1880445]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
@@ -3730,6 +3637,99 @@
         <Point>
           <coordinates>
             114.187433,22.3178195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(土瓜灣)大大碟三餸飯</name>
+        <description><![CDATA[時間戳記: 2024/3/2<br>區域: 九龍城區<br>街道(請盡量提供街號): 馬頭圍道450號<br>商場／大廈: <br>店號/單位號碼: 地下A鋪<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $33<br>價錢(每加一餸): <br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): 45(雙)/55(三)<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3198984<br>Longitude: 114.1873823]]></description>
+        <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="時間戳記">
+            <value>2024/3/2</value>
+          </Data>
+          <Data name="區域">
+            <value>九龍城區</value>
+          </Data>
+          <Data name="街道(請盡量提供街號)">
+            <value>馬頭圍道450號</value>
+          </Data>
+          <Data name="商場／大廈">
+            <value/>
+          </Data>
+          <Data name="店號/單位號碼">
+            <value>地下A鋪</value>
+          </Data>
+          <Data name="推介菜(最多三項)">
+            <value/>
+          </Data>
+          <Data name="中伏菜式(最多三項)">
+            <value/>
+          </Data>
+          <Data name="價錢(兩餸飯)">
+            <value>$33</value>
+          </Data>
+          <Data name="價錢(每加一餸)">
+            <value/>
+          </Data>
+          <Data name="價錢(三餸飯)">
+            <value>$40</value>
+          </Data>
+          <Data name="價錢(四餸飯)">
+            <value/>
+          </Data>
+          <Data name="價錢(淨餸)">
+            <value>45(雙)/55(三)</value>
+          </Data>
+          <Data name="淨餸可否雙併?">
+            <value>可以</value>
+          </Data>
+          <Data name="價錢(白飯)">
+            <value>$10</value>
+          </Data>
+          <Data name="有無例湯供應？">
+            <value>有</value>
+          </Data>
+          <Data name="價錢(例湯)">
+            <value/>
+          </Data>
+          <Data name="有無飲品（啡／茶）供應？">
+            <value>有</value>
+          </Data>
+          <Data name="飲品選擇">
+            <value/>
+          </Data>
+          <Data name="價錢(飲品)">
+            <value/>
+          </Data>
+          <Data name="營業時間（開門)">
+            <value/>
+          </Data>
+          <Data name="營業時間（關門)">
+            <value/>
+          </Data>
+          <Data name="堂食">
+            <value>有</value>
+          </Data>
+          <Data name="座位數量 (如適用)">
+            <value/>
+          </Data>
+          <Data name="外賣平台">
+            <value>無</value>
+          </Data>
+          <Data name="補充資料／評價">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>22.3198984</value>
+          </Data>
+          <Data name="Longitude">
+            <value>114.1873823</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1873823,22.3198984,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5688,11 +5688,11 @@
       </Placemark>
       <Placemark>
         <name>(大埔)家常便飯</name>
-        <description><![CDATA[時間戳記: 2022/5/25<br>區域: 大埔區<br>街道(請盡量提供街號): 汀角路17號<br>商場／大廈: 汀角樓<br>店號/單位號碼: D2<br>推介菜(最多三項): 雞髀，蒸排骨，椒鹽豬扒，芥蘭炒牛肉<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $28<br>價錢(每加一餸): <br>價錢(三餸飯): $35<br>價錢(四餸飯): <br>價錢(淨餸): $38<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): $5<br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): 上午 10:00:00<br>營業時間（關門): 下午 8:10:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.4523951<br>Longitude: 114.1652311]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 大埔區<br>街道(請盡量提供街號): 汀角路17號<br>商場／大廈: 汀角樓<br>店號/單位號碼: D2<br>推介菜(最多三項): 雞髀，蒸排骨，椒鹽豬扒，芥蘭炒牛肉<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $30<br>價錢(每加一餸): <br>價錢(三餸飯): $35<br>價錢(四餸飯): <br>價錢(淨餸): $38<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): $5<br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): 上午 10:00:00<br>營業時間（關門): 下午 8:10:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.4523951<br>Longitude: 114.1652311]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/5/25</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>大埔區</value>
@@ -5713,7 +5713,7 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$28</value>
+            <value>$30</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
@@ -6618,7 +6618,7 @@
       </Placemark>
       <Placemark>
         <name>(大窩口)岱民荃灣店</name>
-        <description><![CDATA[時間戳記: 2022/1/23<br>區域: 荃灣區<br>街道(請盡量提供街號): <br>商場／大廈: (大窩口)岱民荃灣店<br>店號/單位號碼: 1樓209A號舖<br>推介菜(最多三項): <br>中伏菜式(最多三項): 豆腐(朝早7點送到舖前)<br>價錢(兩餸飯): $25<br>價錢(每加一餸): <br>價錢(三餸飯): $30<br>價錢(四餸飯): <br>價錢(淨餸): $35<br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3695987<br>Longitude: 114.1241536]]></description>
+        <description><![CDATA[時間戳記: 2022/1/23<br>區域: 荃灣區<br>街道(請盡量提供街號): <br>商場／大廈: <br>店號/單位號碼: 1樓209A號舖<br>推介菜(最多三項): <br>中伏菜式(最多三項): 豆腐(朝早7點送到舖前)<br>價錢(兩餸飯): $25<br>價錢(每加一餸): <br>價錢(三餸飯): $30<br>價錢(四餸飯): <br>價錢(淨餸): $35<br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3695987<br>Longitude: 114.1241536]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
@@ -6631,7 +6631,7 @@
             <value/>
           </Data>
           <Data name="商場／大廈">
-            <value>(大窩口)岱民荃灣店</value>
+            <value/>
           </Data>
           <Data name="店號/單位號碼">
             <value>1樓209A號舖</value>
@@ -12848,6 +12848,99 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>(屯門)新記美食</name>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 屯門區<br>街道(請盡量提供街號): 屯門龍門路45號<br>商場／大廈: 富健花園街市<br>店號/單位號碼: 25號舖<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $28<br>價錢(每加一餸): $5<br>價錢(三餸飯): $33<br>價錢(四餸飯): <br>價錢(淨餸): 38(單)/40(雙)<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.38422<br>Longitude: 113.96506]]></description>
+        <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="時間戳記">
+            <value>2024/3/3</value>
+          </Data>
+          <Data name="區域">
+            <value>屯門區</value>
+          </Data>
+          <Data name="街道(請盡量提供街號)">
+            <value>屯門龍門路45號</value>
+          </Data>
+          <Data name="商場／大廈">
+            <value>富健花園街市</value>
+          </Data>
+          <Data name="店號/單位號碼">
+            <value>25號舖</value>
+          </Data>
+          <Data name="推介菜(最多三項)">
+            <value/>
+          </Data>
+          <Data name="中伏菜式(最多三項)">
+            <value/>
+          </Data>
+          <Data name="價錢(兩餸飯)">
+            <value>$28</value>
+          </Data>
+          <Data name="價錢(每加一餸)">
+            <value>$5</value>
+          </Data>
+          <Data name="價錢(三餸飯)">
+            <value>$33</value>
+          </Data>
+          <Data name="價錢(四餸飯)">
+            <value/>
+          </Data>
+          <Data name="價錢(淨餸)">
+            <value>38(單)/40(雙)</value>
+          </Data>
+          <Data name="淨餸可否雙併?">
+            <value>可以</value>
+          </Data>
+          <Data name="價錢(白飯)">
+            <value>$10</value>
+          </Data>
+          <Data name="有無例湯供應？">
+            <value>沒有</value>
+          </Data>
+          <Data name="價錢(例湯)">
+            <value/>
+          </Data>
+          <Data name="有無飲品（啡／茶）供應？">
+            <value>沒有</value>
+          </Data>
+          <Data name="飲品選擇">
+            <value/>
+          </Data>
+          <Data name="價錢(飲品)">
+            <value/>
+          </Data>
+          <Data name="營業時間（開門)">
+            <value/>
+          </Data>
+          <Data name="營業時間（關門)">
+            <value/>
+          </Data>
+          <Data name="堂食">
+            <value>沒有</value>
+          </Data>
+          <Data name="座位數量 (如適用)">
+            <value/>
+          </Data>
+          <Data name="外賣平台">
+            <value>無</value>
+          </Data>
+          <Data name="補充資料／評價">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>22.38422</value>
+          </Data>
+          <Data name="Longitude">
+            <value>113.96506</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.96506,22.38422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>(屯門)新龍城點心小廚</name>
         <description><![CDATA[時間戳記: 2023/8/24<br>區域: 屯門區<br>街道(請盡量提供街號): 新界屯門<br>商場／大廈: 寶田邨寶田街市<br>店號/單位號碼: 地下25-28號鋪<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $40<br>價錢(每加一餸): <br>價錢(三餸飯): <br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 10<br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.40937011<br>Longitude: 113.966587]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
@@ -13035,11 +13128,11 @@
       </Placemark>
       <Placemark>
         <name>(屯門)齊記美食</name>
-        <description><![CDATA[時間戳記: 2021/12/28<br>區域: 屯門區<br>街道(請盡量提供街號): 屯門友愛路<br>商場／大廈: 友愛街市<br>店號/單位號碼: 12號舖<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $36<br>價錢(每加一餸): $8<br>價錢(三餸飯): $42<br>價錢(四餸飯): <br>價錢(淨餸): 單餸40， 雙餸50<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: 檸檬茶、菊花茶<br>價錢(飲品): <br>營業時間（開門): 上午 11:30:00<br>營業時間（關門): 下午 8:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3884811<br>Longitude: 113.9744989]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 屯門區<br>街道(請盡量提供街號): 屯門友愛路<br>商場／大廈: 友愛街市<br>店號/單位號碼: 12號舖<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $38<br>價錢(每加一餸): <br>價錢(三餸飯): $44<br>價錢(四餸飯): <br>價錢(淨餸): 單餸42/雙餸52<br>淨餸可否雙併?: 可以<br>價錢(白飯): $12<br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: 檸檬茶、菊花茶<br>價錢(飲品): <br>營業時間（開門): 上午 11:30:00<br>營業時間（關門): 下午 8:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3884811<br>Longitude: 113.9744989]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2021/12/28</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>屯門區</value>
@@ -13060,25 +13153,25 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$36</value>
+            <value>$38</value>
           </Data>
           <Data name="價錢(每加一餸)">
-            <value>$8</value>
+            <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$42</value>
+            <value>$44</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value>單餸40， 雙餸50</value>
+            <value>單餸42/雙餸52</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
           </Data>
           <Data name="價錢(白飯)">
-            <value>$10</value>
+            <value>$12</value>
           </Data>
           <Data name="有無例湯供應？">
             <value>沒有</value>
@@ -13128,11 +13221,11 @@
       </Placemark>
       <Placemark>
         <name>(屯門)齊記美食</name>
-        <description><![CDATA[時間戳記: 2022/1/16<br>區域: 屯門區<br>街道(請盡量提供街號): 屯門區青菱徑3號<br>商場／大廈: 東威閣<br>店號/單位號碼: 地下G03號舖<br>推介菜(最多三項): 咖喱雞， 雞扒， 蒸水蛋, 蟲草花蒸雞, 煎雞扒,  椒鹽豬扒 釀豆腐 肉餅<br>中伏菜式(最多三項): 辣子雞<br>價錢(兩餸飯): $36<br>價錢(每加一餸): $8<br>價錢(三餸飯): $42<br>價錢(四餸飯): $50<br>價錢(淨餸): 單餸40， 雙餸50<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: 檸檬茶、菊花茶<br>價錢(飲品): <br>營業時間（開門): 上午 11:30:00<br>營業時間（關門): 下午 8:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.4021827<br>Longitude: 113.9782849]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 屯門區<br>街道(請盡量提供街號): 屯門區青菱徑3號<br>商場／大廈: 東威閣<br>店號/單位號碼: 地下G03號舖<br>推介菜(最多三項): 咖喱雞， 雞扒， 蒸水蛋, 蟲草花蒸雞, 煎雞扒,  椒鹽豬扒 釀豆腐 肉餅<br>中伏菜式(最多三項): 辣子雞<br>價錢(兩餸飯): $38<br>價錢(每加一餸): <br>價錢(三餸飯): $44<br>價錢(四餸飯): <br>價錢(淨餸): 單餸42/雙餸52<br>淨餸可否雙併?: 可以<br>價錢(白飯): $12<br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: 檸檬茶、菊花茶<br>價錢(飲品): <br>營業時間（開門): 上午 11:30:00<br>營業時間（關門): 下午 8:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.4021827<br>Longitude: 113.9782849]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/1/16</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>屯門區</value>
@@ -13153,25 +13246,25 @@
             <value>辣子雞</value>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$36</value>
+            <value>$38</value>
           </Data>
           <Data name="價錢(每加一餸)">
-            <value>$8</value>
+            <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$42</value>
+            <value>$44</value>
           </Data>
           <Data name="價錢(四餸飯)">
-            <value>$50</value>
+            <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value>單餸40， 雙餸50</value>
+            <value>單餸42/雙餸52</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
           </Data>
           <Data name="價錢(白飯)">
-            <value>$10</value>
+            <value>$12</value>
           </Data>
           <Data name="有無例湯供應？">
             <value>沒有</value>
@@ -14802,11 +14895,11 @@
       </Placemark>
       <Placemark>
         <name>(北角)佳記美食</name>
-        <description><![CDATA[時間戳記: 2021/12/19<br>區域: 東區<br>街道(請盡量提供街號): 英皇道490號<br>商場／大廈: 英華閣<br>店號/單位號碼: <br>推介菜(最多三項): 豬肚 咕嚕肉、蘿蔔牛腩、西蘭花<br>中伏菜式(最多三項): 肉餅<br>價錢(兩餸飯): $32<br>價錢(每加一餸): $8<br>價錢(三餸飯): $42<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): $5<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): 上午 10:30:00<br>營業時間（關門): 下午 9:30:00<br>堂食: 有<br>座位數量 (如適用): 30<br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.2912304<br>Longitude: 114.2015199]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 東區<br>街道(請盡量提供街號): 英皇道490號<br>商場／大廈: 英華閣<br>店號/單位號碼: <br>推介菜(最多三項): 豬肚 咕嚕肉、蘿蔔牛腩、西蘭花<br>中伏菜式(最多三項): 肉餅<br>價錢(兩餸飯): $33<br>價錢(每加一餸): <br>價錢(三餸飯): $41<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): $5<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 啡／茶<br>價錢(飲品): $5<br>營業時間（開門): 上午 10:30:00<br>營業時間（關門): 下午 9:30:00<br>堂食: 有<br>座位數量 (如適用): 30<br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.2912304<br>Longitude: 114.2015199]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2021/12/19</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>東區</value>
@@ -14827,13 +14920,13 @@
             <value>肉餅</value>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$32</value>
+            <value>$33</value>
           </Data>
           <Data name="價錢(每加一餸)">
-            <value>$8</value>
+            <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$42</value>
+            <value>$41</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
@@ -14857,10 +14950,10 @@
             <value>有</value>
           </Data>
           <Data name="飲品選擇">
-            <value/>
+            <value>啡／茶</value>
           </Data>
           <Data name="價錢(飲品)">
-            <value/>
+            <value>$5</value>
           </Data>
           <Data name="營業時間（開門)">
             <value>上午 10:30:00</value>
@@ -15355,6 +15448,99 @@
         <Point>
           <coordinates>
             114.2031514,22.290645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(北角)Chicken Chiko</name>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 東區<br>街道(請盡量提供街號): 北角明園西街2-6號<br>商場／大廈: 明苑中心<br>店號/單位號碼: 地下4號舖<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $73<br>價錢(每加一餸): <br>價錢(三餸飯): $88<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: <br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 罐裝飲品<br>價錢(飲品): 跟餐<br>營業時間（開門): 上午 11:30:00<br>營業時間（關門): 下午 3:00:00<br>堂食: 有<br>座位數量 (如適用): 20<br>外賣平台: 戶戶送 Deliveroo<br>補充資料／評價: <br>Latitude: 22.2904131<br>Longitude: 114.1986844]]></description>
+        <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="時間戳記">
+            <value>2024/3/3</value>
+          </Data>
+          <Data name="區域">
+            <value>東區</value>
+          </Data>
+          <Data name="街道(請盡量提供街號)">
+            <value>北角明園西街2-6號</value>
+          </Data>
+          <Data name="商場／大廈">
+            <value>明苑中心</value>
+          </Data>
+          <Data name="店號/單位號碼">
+            <value>地下4號舖</value>
+          </Data>
+          <Data name="推介菜(最多三項)">
+            <value/>
+          </Data>
+          <Data name="中伏菜式(最多三項)">
+            <value/>
+          </Data>
+          <Data name="價錢(兩餸飯)">
+            <value>$73</value>
+          </Data>
+          <Data name="價錢(每加一餸)">
+            <value/>
+          </Data>
+          <Data name="價錢(三餸飯)">
+            <value>$88</value>
+          </Data>
+          <Data name="價錢(四餸飯)">
+            <value/>
+          </Data>
+          <Data name="價錢(淨餸)">
+            <value/>
+          </Data>
+          <Data name="淨餸可否雙併?">
+            <value/>
+          </Data>
+          <Data name="價錢(白飯)">
+            <value/>
+          </Data>
+          <Data name="有無例湯供應？">
+            <value/>
+          </Data>
+          <Data name="價錢(例湯)">
+            <value/>
+          </Data>
+          <Data name="有無飲品（啡／茶）供應？">
+            <value>有</value>
+          </Data>
+          <Data name="飲品選擇">
+            <value>罐裝飲品</value>
+          </Data>
+          <Data name="價錢(飲品)">
+            <value>跟餐</value>
+          </Data>
+          <Data name="營業時間（開門)">
+            <value>上午 11:30:00</value>
+          </Data>
+          <Data name="營業時間（關門)">
+            <value>下午 3:00:00</value>
+          </Data>
+          <Data name="堂食">
+            <value>有</value>
+          </Data>
+          <Data name="座位數量 (如適用)">
+            <value>20</value>
+          </Data>
+          <Data name="外賣平台">
+            <value>戶戶送 Deliveroo</value>
+          </Data>
+          <Data name="補充資料／評價">
+            <value/>
+          </Data>
+          <Data name="Latitude">
+            <value>22.2904131</value>
+          </Data>
+          <Data name="Longitude">
+            <value>114.1986844</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1986844,22.2904131,0
           </coordinates>
         </Point>
       </Placemark>
@@ -17034,11 +17220,11 @@
       </Placemark>
       <Placemark>
         <name>(西環)佳記美食</name>
-        <description><![CDATA[時間戳記: 2021/12/29<br>區域: 中西區<br>街道(請盡量提供街號): 西環皇后大道西484號新安大樓地下M號舖<br>商場／大廈: 新安大樓<br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $36<br>價錢(每加一餸): <br>價錢(三餸飯): <br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 20<br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.2858022<br>Longitude: 114.1354354]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 中西區<br>街道(請盡量提供街號): 西環皇后大道西484號新安大樓地下M號舖<br>商場／大廈: 新安大樓<br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $37<br>價錢(每加一餸): <br>價錢(三餸飯): $46<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 20<br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.2858022<br>Longitude: 114.1354354]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2021/12/29</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>中西區</value>
@@ -17059,13 +17245,13 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$36</value>
+            <value>$37</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value/>
+            <value>$46</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
@@ -17127,11 +17313,11 @@
       </Placemark>
       <Placemark>
         <name>(西環)岱民石塘咀店</name>
-        <description><![CDATA[時間戳記: 2022/5/25<br>區域: 中西區<br>街道(請盡量提供街號): 皇后大道西425G號<br>商場／大廈: 永華大廈<br>店號/單位號碼: 地下A、B號鋪<br>推介菜(最多三項): 辣子雞，咕嚕肉<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $25<br>價錢(每加一餸): <br>價錢(三餸飯): $30<br>價錢(四餸飯): <br>價錢(淨餸): $35<br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: <br>價錢(例湯): <br>有無飲品（啡／茶）供應？: <br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): 上午 9:30:00<br>營業時間（關門): 下午 10:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.2860328<br>Longitude: 114.136259]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 中西區<br>街道(請盡量提供街號): 皇后大道西425G號<br>商場／大廈: 永華大廈<br>店號/單位號碼: 地下A、B號鋪<br>推介菜(最多三項): 辣子雞，咕嚕肉<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $28<br>價錢(每加一餸): <br>價錢(三餸飯): $33<br>價錢(四餸飯): <br>價錢(淨餸): $38<br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: <br>價錢(例湯): <br>有無飲品（啡／茶）供應？: <br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): 上午 9:30:00<br>營業時間（關門): 下午 10:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.2860328<br>Longitude: 114.136259]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/5/25</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>中西區</value>
@@ -17152,19 +17338,19 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$25</value>
+            <value>$28</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$30</value>
+            <value>$33</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value>$35</value>
+            <value>$38</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value/>
@@ -18336,11 +18522,11 @@
       </Placemark>
       <Placemark>
         <name>(佐敦)佳記美食</name>
-        <description><![CDATA[時間戳記: 2022/6/1<br>區域: 油尖旺區<br>街道(請盡量提供街號): 上海街88號<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $30<br>價錢(每加一餸): <br>價錢(三餸飯): $38<br>價錢(四餸飯): <br>價錢(淨餸): $45/$50<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): $5<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 茶/啡<br>價錢(飲品): $5<br>營業時間（開門): 上午 9:30:00<br>營業時間（關門): 下午 10:00:00<br>堂食: 有<br>座位數量 (如適用): 15<br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3050315<br>Longitude: 114.1692586]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 油尖旺區<br>街道(請盡量提供街號): 上海街88號<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $33<br>價錢(每加一餸): <br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): $45<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): $5<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 茶/啡<br>價錢(飲品): $5<br>營業時間（開門): 上午 9:30:00<br>營業時間（關門): 下午 10:00:00<br>堂食: 有<br>座位數量 (如適用): 15<br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3050315<br>Longitude: 114.1692586]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/6/1</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>油尖旺區</value>
@@ -18361,19 +18547,19 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$30</value>
+            <value>$33</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$38</value>
+            <value>$40</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value>$45/$50</value>
+            <value>$45</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
@@ -19452,11 +19638,11 @@
       </Placemark>
       <Placemark>
         <name>(利東)岱民利東店</name>
-        <description><![CDATA[時間戳記: 2022/1/24<br>區域: 南區<br>街道(請盡量提供街號): 鴨脷洲利東邨道5號<br>商場／大廈: 利東商場<br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $25<br>價錢(每加一餸): <br>價錢(三餸飯): $30<br>價錢(四餸飯): <br>價錢(淨餸): $35<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 果汁<br>價錢(飲品): $3<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.2409897<br>Longitude: 114.1559524]]></description>
+        <description><![CDATA[時間戳記: 2024/3/4<br>區域: 南區<br>街道(請盡量提供街號): 鴨脷洲利東邨道5號<br>商場／大廈: 利東商場<br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $28<br>價錢(每加一餸): <br>價錢(三餸飯): $33<br>價錢(四餸飯): <br>價錢(淨餸): $38<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 果汁<br>價錢(飲品): $3<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.2409897<br>Longitude: 114.1559524]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/1/24</value>
+            <value>2024/3/4</value>
           </Data>
           <Data name="區域">
             <value>南區</value>
@@ -19477,19 +19663,19 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$25</value>
+            <value>$28</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$30</value>
+            <value>$33</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value>$35</value>
+            <value>$38</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
@@ -19638,11 +19824,11 @@
       </Placemark>
       <Placemark>
         <name>(坑口)家餸小廚</name>
-        <description><![CDATA[時間戳記: 2021/12/30<br>區域: 西貢區（包括將軍澳）<br>街道(請盡量提供街號): 將軍澳常寧路2號<br>商場／大廈: TKO Gateway<br>店號/單位號碼: EF16<br>推介菜(最多三項): 椒鹽肉排，家鄉煎藕餅<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $32<br>價錢(每加一餸): $8<br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): $42<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 罐裝汽水，紙包飲品，支裝無糖茶<br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): 下午 9:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.3172083<br>Longitude: 114.2658933]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 西貢區（包括將軍澳）<br>街道(請盡量提供街號): 將軍澳常寧路2號<br>商場／大廈: TKO Gateway<br>店號/單位號碼: EF16<br>推介菜(最多三項): 椒鹽肉排，家鄉煎藕餅<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $35<br>價錢(每加一餸): $8<br>價錢(三餸飯): $43<br>價錢(四餸飯): <br>價錢(淨餸): $42<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 罐裝汽水，紙包飲品，支裝無糖茶<br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): 下午 9:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.3172083<br>Longitude: 114.2658933]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2021/12/30</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>西貢區（包括將軍澳）</value>
@@ -19663,13 +19849,13 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$32</value>
+            <value>$35</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value>$8</value>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$40</value>
+            <value>$43</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
@@ -20103,11 +20289,11 @@
       </Placemark>
       <Placemark>
         <name>(沙田)岱民瀝源店</name>
-        <description><![CDATA[時間戳記: 2021/12/28<br>區域: 沙田區<br>街道(請盡量提供街號): 沙田瀝源街6號<br>商場／大廈: 瀝源街市<br>店號/單位號碼: <br>推介菜(最多三項): 煎肉餅 辣子雞<br>中伏菜式(最多三項): 蒸魚<br>價錢(兩餸飯): $25<br>價錢(每加一餸): <br>價錢(三餸飯): $30<br>價錢(四餸飯): <br>價錢(淨餸): $35<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): 下午 8:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.384607<br>Longitude: 114.191214]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 沙田區<br>街道(請盡量提供街號): 沙田瀝源街6號<br>商場／大廈: 瀝源街市<br>店號/單位號碼: <br>推介菜(最多三項): 煎肉餅 辣子雞<br>中伏菜式(最多三項): 蒸魚<br>價錢(兩餸飯): $28<br>價錢(每加一餸): <br>價錢(三餸飯): $33<br>價錢(四餸飯): <br>價錢(淨餸): $35<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): 下午 8:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.384607<br>Longitude: 114.191214]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2021/12/28</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>沙田區</value>
@@ -20128,13 +20314,13 @@
             <value>蒸魚</value>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$25</value>
+            <value>$28</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$30</value>
+            <value>$33</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
@@ -20563,99 +20749,6 @@
         <Point>
           <coordinates>
             114.194212,22.3758319,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>(沙田)龍記廚房</name>
-        <description><![CDATA[時間戳記: 2023/8/5<br>區域: 沙田區<br>街道(請盡量提供街號): 新界沙田沙角街5號<br>商場／大廈: 沙角市場<br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $30<br>價錢(每加一餸): <br>價錢(三餸飯): $35<br>價錢(四餸飯): <br>價錢(淨餸): 35(單)/44(雙)<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: <br>價錢(例湯): <br>有無飲品（啡／茶）供應？: <br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3770026<br>Longitude: 114.1940123]]></description>
-        <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
-        <ExtendedData>
-          <Data name="時間戳記">
-            <value>2023/8/5</value>
-          </Data>
-          <Data name="區域">
-            <value>沙田區</value>
-          </Data>
-          <Data name="街道(請盡量提供街號)">
-            <value>新界沙田沙角街5號</value>
-          </Data>
-          <Data name="商場／大廈">
-            <value>沙角市場</value>
-          </Data>
-          <Data name="店號/單位號碼">
-            <value/>
-          </Data>
-          <Data name="推介菜(最多三項)">
-            <value/>
-          </Data>
-          <Data name="中伏菜式(最多三項)">
-            <value/>
-          </Data>
-          <Data name="價錢(兩餸飯)">
-            <value>$30</value>
-          </Data>
-          <Data name="價錢(每加一餸)">
-            <value/>
-          </Data>
-          <Data name="價錢(三餸飯)">
-            <value>$35</value>
-          </Data>
-          <Data name="價錢(四餸飯)">
-            <value/>
-          </Data>
-          <Data name="價錢(淨餸)">
-            <value>35(單)/44(雙)</value>
-          </Data>
-          <Data name="淨餸可否雙併?">
-            <value>可以</value>
-          </Data>
-          <Data name="價錢(白飯)">
-            <value/>
-          </Data>
-          <Data name="有無例湯供應？">
-            <value/>
-          </Data>
-          <Data name="價錢(例湯)">
-            <value/>
-          </Data>
-          <Data name="有無飲品（啡／茶）供應？">
-            <value/>
-          </Data>
-          <Data name="飲品選擇">
-            <value/>
-          </Data>
-          <Data name="價錢(飲品)">
-            <value/>
-          </Data>
-          <Data name="營業時間（開門)">
-            <value/>
-          </Data>
-          <Data name="營業時間（關門)">
-            <value/>
-          </Data>
-          <Data name="堂食">
-            <value>沒有</value>
-          </Data>
-          <Data name="座位數量 (如適用)">
-            <value/>
-          </Data>
-          <Data name="外賣平台">
-            <value>無</value>
-          </Data>
-          <Data name="補充資料／評價">
-            <value/>
-          </Data>
-          <Data name="Latitude">
-            <value>22.3770026</value>
-          </Data>
-          <Data name="Longitude">
-            <value>114.1940123</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            114.1940123,22.3770026,0
           </coordinates>
         </Point>
       </Placemark>
@@ -21777,11 +21870,11 @@
       </Placemark>
       <Placemark>
         <name>(旺角)廣潤美食</name>
-        <description><![CDATA[時間戳記: 2022/1/13<br>區域: 油尖旺區<br>街道(請盡量提供街號): 旺角亞皆老街64-70號<br>商場／大廈: <br>店號/單位號碼: 地舖<br>推介菜(最多三項): 椒鹽豬扒 粟米魚塊<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $28<br>價錢(每加一餸): <br>價錢(三餸飯): $33<br>價錢(四餸飯): <br>價錢(淨餸): 35(兩餸)/40(三餸)<br>淨餸可否雙併?: <br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): $5<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): $5<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 15<br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3194749<br>Longitude: 114.1715012]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 油尖旺區<br>街道(請盡量提供街號): 旺角亞皆老街64-70號<br>商場／大廈: <br>店號/單位號碼: 地舖<br>推介菜(最多三項): 椒鹽豬扒 粟米魚塊<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $33<br>價錢(每加一餸): <br>價錢(三餸飯): $38<br>價錢(四餸飯): <br>價錢(淨餸): 42(兩餸)/46(三餸)<br>淨餸可否雙併?: <br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): $5<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): $5<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 15<br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3194749<br>Longitude: 114.1715012]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/1/13</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>油尖旺區</value>
@@ -21802,19 +21895,19 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$28</value>
+            <value>$33</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$33</value>
+            <value>$38</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value>35(兩餸)/40(三餸)</value>
+            <value>42(兩餸)/46(三餸)</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value/>
@@ -21870,11 +21963,11 @@
       </Placemark>
       <Placemark>
         <name>(旺角)廣潤美食</name>
-        <description><![CDATA[時間戳記: 2022/9/16<br>區域: 油尖旺區<br>街道(請盡量提供街號): 旺角亞皆老街15號<br>商場／大廈: <br>店號/單位號碼: 地下B舖<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $28<br>價錢(每加一餸): <br>價錢(三餸飯): $33<br>價錢(四餸飯): <br>價錢(淨餸): 35(兩餸)/40(三餸)<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): $5<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 茶/啡<br>價錢(飲品): $5<br>營業時間（開門): 上午 10:00:00<br>營業時間（關門): 下午 10:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3191821<br>Longitude: 114.1672747]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 油尖旺區<br>街道(請盡量提供街號): 旺角亞皆老街15號<br>商場／大廈: <br>店號/單位號碼: 地下B舖<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $33<br>價錢(每加一餸): <br>價錢(三餸飯): $38<br>價錢(四餸飯): <br>價錢(淨餸): 42(兩餸)/46(三餸)<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): $5<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 茶/啡<br>價錢(飲品): $5<br>營業時間（開門): 上午 10:00:00<br>營業時間（關門): 下午 10:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3191821<br>Longitude: 114.1672747]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/9/16</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>油尖旺區</value>
@@ -21895,19 +21988,19 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$28</value>
+            <value>$33</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$33</value>
+            <value>$38</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value>35(兩餸)/40(三餸)</value>
+            <value>42(兩餸)/46(三餸)</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
@@ -24102,11 +24195,11 @@
       </Placemark>
       <Placemark>
         <name>(長沙灣)好滿足家常菜</name>
-        <description><![CDATA[時間戳記: 2023/4/28<br>區域: 深水埗區<br>街道(請盡量提供街號): 九龍元州街414號<br>商場／大廈: <br>店號/單位號碼: 地下<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $35<br>價錢(每加一餸): <br>價錢(三餸飯): $39<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): 上午 7:30:00<br>營業時間（關門): 下午 10:00:00<br>堂食: 有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.338735<br>Longitude: 114.155279]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 深水埗區<br>街道(請盡量提供街號): 九龍元州街414號<br>商場／大廈: <br>店號/單位號碼: 地下<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $39<br>價錢(每加一餸): <br>價錢(三餸飯): $44<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): 上午 7:30:00<br>營業時間（關門): 下午 10:00:00<br>堂食: 有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.338735<br>Longitude: 114.155279]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2023/4/28</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>深水埗區</value>
@@ -24127,13 +24220,13 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$35</value>
+            <value>$39</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$39</value>
+            <value>$44</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
@@ -24195,11 +24288,11 @@
       </Placemark>
       <Placemark>
         <name>(長沙灣)佳記美食</name>
-        <description><![CDATA[時間戳記: 2022/9/15<br>區域: 深水埗區<br>街道(請盡量提供街號): 青山道234號<br>商場／大廈: <br>店號/單位號碼: 地下<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $32<br>價錢(每加一餸): <br>價錢(三餸飯): $41<br>價錢(四餸飯): <br>價錢(淨餸): $45/$50(特色菜)<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): 跟餐+2<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 茶啡<br>價錢(飲品): 跟餐+2<br>營業時間（開門): 上午 11:00:00<br>營業時間（關門): 下午 9:30:00<br>堂食: 有<br>座位數量 (如適用): 約20<br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.3370758<br>Longitude: 114.1583286]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 深水埗區<br>街道(請盡量提供街號): 青山道234號<br>商場／大廈: <br>店號/單位號碼: 地下<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $33<br>價錢(每加一餸): <br>價錢(三餸飯): $42<br>價錢(四餸飯): <br>價錢(淨餸): $45/$50(特色菜)<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): 跟餐+2<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 茶啡<br>價錢(飲品): 跟餐+2<br>營業時間（開門): 上午 11:00:00<br>營業時間（關門): 下午 9:30:00<br>堂食: 有<br>座位數量 (如適用): 約20<br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.3370758<br>Longitude: 114.1583286]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/9/15</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>深水埗區</value>
@@ -24220,13 +24313,13 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$32</value>
+            <value>$33</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$41</value>
+            <value>$42</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
@@ -28380,7 +28473,7 @@
       </Placemark>
       <Placemark>
         <name>(粉嶺)百佳超級市場</name>
-        <description><![CDATA[時間戳記: 2024/2/24<br>區域: 北區<br>街道(請盡量提供街號): 粉嶺車站路18號<br>商場／大廈: (粉嶺)岱民粉嶺店<br>店號/單位號碼: <br>推介菜(最多三項): 生炒骨<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $32<br>價錢(每加一餸): <br>價錢(三餸飯): $37<br>價錢(四餸飯): <br>價錢(淨餸): $47<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): 上午 9:00:00<br>營業時間（關門): 下午 8:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.4920736<br>Longitude: 114.1396637]]></description>
+        <description><![CDATA[時間戳記: 2024/2/24<br>區域: 北區<br>街道(請盡量提供街號): 粉嶺車站路18號<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): 生炒骨<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $32<br>價錢(每加一餸): <br>價錢(三餸飯): $37<br>價錢(四餸飯): <br>價錢(淨餸): $47<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): 上午 9:00:00<br>營業時間（關門): 下午 8:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.4920736<br>Longitude: 114.1396637]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
@@ -28393,7 +28486,7 @@
             <value>粉嶺車站路18號</value>
           </Data>
           <Data name="商場／大廈">
-            <value>(粉嶺)岱民粉嶺店</value>
+            <value/>
           </Data>
           <Data name="店號/單位號碼">
             <value/>
@@ -30240,11 +30333,11 @@
       </Placemark>
       <Placemark>
         <name>(荃灣)佳記美食</name>
-        <description><![CDATA[時間戳記: 2021/12/29<br>區域: 荃灣區<br>街道(請盡量提供街號): 眾安街79號<br>商場／大廈: <br>店號/單位號碼: 79號地舖<br>推介菜(最多三項): 炒菜心，炸豬扒，三色椒炒牛肉<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $36<br>價錢(每加一餸): <br>價錢(三餸飯): <br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 冷熱茶、啡、豆漿<br>價錢(飲品): $2<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 30<br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.3692187<br>Longitude: 114.1163014]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 荃灣區<br>街道(請盡量提供街號): 眾安街79號<br>商場／大廈: <br>店號/單位號碼: 79號地舖<br>推介菜(最多三項): 炒菜心，炸豬扒，三色椒炒牛肉<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $36<br>價錢(每加一餸): <br>價錢(三餸飯): $45<br>價錢(四餸飯): <br>價錢(淨餸): $45<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 冷熱茶、啡、豆漿<br>價錢(飲品): $2<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 30<br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.3692187<br>Longitude: 114.1163014]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2021/12/29</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>荃灣區</value>
@@ -30271,13 +30364,13 @@
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value/>
+            <value>$45</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value/>
+            <value>$45</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
@@ -30333,11 +30426,11 @@
       </Placemark>
       <Placemark>
         <name>(荃灣)桂香燒味茶餐廳</name>
-        <description><![CDATA[時間戳記: 2021/12/28<br>區域: 荃灣區<br>街道(請盡量提供街號): 河背街61號<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): 大眼雞 扣肉，茄汁中蝦<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $36<br>價錢(每加一餸): <br>價錢(三餸飯): $41<br>價錢(四餸飯): <br>價錢(淨餸): $41<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.3686<br>Longitude: 114.1155]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 荃灣區<br>街道(請盡量提供街號): 河背街61號<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): 大眼雞 扣肉，茄汁中蝦<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $36<br>價錢(每加一餸): <br>價錢(三餸飯): $45<br>價錢(四餸飯): <br>價錢(淨餸): $45<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: 茶/啡<br>價錢(飲品): $12<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.3686<br>Longitude: 114.1155]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2021/12/28</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>荃灣區</value>
@@ -30364,13 +30457,13 @@
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$41</value>
+            <value>$45</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value>$41</value>
+            <value>$45</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
@@ -30388,10 +30481,10 @@
             <value>沒有</value>
           </Data>
           <Data name="飲品選擇">
-            <value/>
+            <value>茶/啡</value>
           </Data>
           <Data name="價錢(飲品)">
-            <value/>
+            <value>$12</value>
           </Data>
           <Data name="營業時間（開門)">
             <value/>
@@ -30612,11 +30705,11 @@
       </Placemark>
       <Placemark>
         <name>(荃灣)密密食</name>
-        <description><![CDATA[時間戳記: 2022/7/18<br>區域: 荃灣區<br>街道(請盡量提供街號): 荃灣兆和街38-40號<br>商場／大廈: 瑞生樓<br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $30<br>價錢(每加一餸): <br>價錢(三餸飯): $35<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: <br>價錢(例湯): <br>有無飲品（啡／茶）供應？: <br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.371761<br>Longitude: 114.1178078]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 荃灣區<br>街道(請盡量提供街號): 荃灣兆和街38-40號<br>商場／大廈: 瑞生樓<br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $35<br>價錢(每加一餸): <br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: <br>價錢(例湯): <br>有無飲品（啡／茶）供應？: <br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.371761<br>Longitude: 114.1178078]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/7/18</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>荃灣區</value>
@@ -30637,13 +30730,13 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$30</value>
+            <value>$35</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$35</value>
+            <value>$40</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
@@ -31728,11 +31821,11 @@
       </Placemark>
       <Placemark>
         <name>(堅尼地城)岱民堅尼地城店</name>
-        <description><![CDATA[時間戳記: 2022/7/3<br>區域: 中西區<br>街道(請盡量提供街號): 卑路乍街127號<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $25<br>價錢(每加一餸): <br>價錢(三餸飯): $30<br>價錢(四餸飯): <br>價錢(淨餸): $35<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.2826037<br>Longitude: 114.1276592]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 中西區<br>街道(請盡量提供街號): 卑路乍街127號<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $28<br>價錢(每加一餸): <br>價錢(三餸飯): $33<br>價錢(四餸飯): <br>價錢(淨餸): $38<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.2826037<br>Longitude: 114.1276592]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/7/3</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>中西區</value>
@@ -31753,19 +31846,19 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$25</value>
+            <value>$28</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$30</value>
+            <value>$33</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value>$35</value>
+            <value>$38</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
@@ -31821,11 +31914,11 @@
       </Placemark>
       <Placemark>
         <name>(堅尼地城)阿英小食坊</name>
-        <description><![CDATA[時間戳記: 2022/2/7<br>區域: 中西區<br>街道(請盡量提供街號): 士美菲路43號<br>商場／大廈: 美菲閣<br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $36<br>價錢(每加一餸): $8<br>價錢(三餸飯): <br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: <br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 4<br>外賣平台: 店方自行送外賣<br>補充資料／評價: <br>Latitude: 22.282171<br>Longitude: 114.128109]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 中西區<br>街道(請盡量提供街號): 士美菲路43號<br>商場／大廈: 美菲閣<br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $36<br>價錢(每加一餸): $8<br>價錢(三餸飯): <br>價錢(四餸飯): <br>價錢(淨餸): $50<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: <br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 4<br>外賣平台: 店方自行送外賣<br>補充資料／評價: <br>Latitude: 22.282171<br>Longitude: 114.128109]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/2/7</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>中西區</value>
@@ -31858,7 +31951,7 @@
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value/>
+            <value>$50</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
@@ -34053,11 +34146,11 @@
       </Placemark>
       <Placemark>
         <name>(深水埗)家家美食</name>
-        <description><![CDATA[時間戳記: 2022/6/30<br>區域: 深水埗區<br>街道(請盡量提供街號): 深水埗長沙灣道216號<br>商場／大廈: <br>店號/單位號碼: 地下<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $35<br>價錢(每加一餸): $8<br>價錢(三餸飯): $44<br>價錢(四餸飯): $53<br>價錢(淨餸): $45<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): $2<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): $2<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 20<br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.33104<br>Longitude: 114.162305]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 深水埗區<br>街道(請盡量提供街號): 深水埗長沙灣道216號<br>商場／大廈: <br>店號/單位號碼: 地下<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $36<br>價錢(每加一餸): $8<br>價錢(三餸飯): $45<br>價錢(四餸飯): $53<br>價錢(淨餸): $45<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): $2<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): $2<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 20<br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.33104<br>Longitude: 114.162305]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/6/30</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>深水埗區</value>
@@ -34078,13 +34171,13 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$35</value>
+            <value>$36</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value>$8</value>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$44</value>
+            <value>$45</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value>$53</value>
@@ -34332,11 +34425,11 @@
       </Placemark>
       <Placemark>
         <name>(深水埗)素食工房</name>
-        <description><![CDATA[時間戳記: 2022/9/15<br>區域: 深水埗區<br>街道(請盡量提供街號): 深水埗欽州街37號<br>商場／大廈: 西九龍中心<br>店號/單位號碼: 八樓<br>推介菜(最多三項): 獅子頭，甜酸豆腐，素蛋<br>中伏菜式(最多三項): 苦瓜<br>價錢(兩餸飯): $32<br>價錢(每加一餸): <br>價錢(三餸飯): $38<br>價錢(四餸飯): $42<br>價錢(淨餸): <br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): 跟餐<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 可樂<br>價錢(飲品): $8<br>營業時間（開門): 上午 11:00:00<br>營業時間（關門): 下午 9:00:00<br>堂食: 有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.33098864<br>Longitude: 114.1595078]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 深水埗區<br>街道(請盡量提供街號): 深水埗欽州街37號<br>商場／大廈: 西九龍中心<br>店號/單位號碼: 八樓<br>推介菜(最多三項): 獅子頭，甜酸豆腐，素蛋<br>中伏菜式(最多三項): 苦瓜<br>價錢(兩餸飯): $35<br>價錢(每加一餸): $8<br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): $45<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): 跟餐<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 可樂<br>價錢(飲品): $8<br>營業時間（開門): 上午 11:00:00<br>營業時間（關門): 下午 9:00:00<br>堂食: 有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.33098864<br>Longitude: 114.1595078]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/9/15</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>深水埗區</value>
@@ -34357,22 +34450,22 @@
             <value>苦瓜</value>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$32</value>
+            <value>$35</value>
           </Data>
           <Data name="價錢(每加一餸)">
-            <value/>
+            <value>$8</value>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$38</value>
+            <value>$40</value>
           </Data>
           <Data name="價錢(四餸飯)">
-            <value>$42</value>
+            <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value/>
+            <value>$45</value>
           </Data>
           <Data name="淨餸可否雙併?">
-            <value/>
+            <value>可以</value>
           </Data>
           <Data name="價錢(白飯)">
             <value/>
@@ -36192,11 +36285,11 @@
       </Placemark>
       <Placemark>
         <name>(黃大仙)德利小廚</name>
-        <description><![CDATA[時間戳記: 2022/10/1<br>區域: 黃大仙區<br>街道(請盡量提供街號): 竹園南邨銀竹里<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $30(外賣)/$32(堂食)<br>價錢(每加一餸): <br>價錢(三餸飯): <br>價錢(四餸飯): <br>價錢(淨餸): $39<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): $6<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 啡／茶<br>價錢(飲品): $6<br>營業時間（開門): 上午 10:00:00<br>營業時間（關門): 下午 9:00:00<br>堂食: 有<br>座位數量 (如適用): 40<br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.34458<br>Longitude: 114.1905908]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 黃大仙區<br>街道(請盡量提供街號): 竹園南邨銀竹里<br>商場／大廈: <br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): <br>價錢(每加一餸): <br>價錢(三餸飯): $46<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): $6<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 啡／茶<br>價錢(飲品): $6<br>營業時間（開門): 上午 10:00:00<br>營業時間（關門): 下午 9:00:00<br>堂食: 有<br>座位數量 (如適用): 40<br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.34458<br>Longitude: 114.1905908]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/10/1</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>黃大仙區</value>
@@ -36217,19 +36310,19 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$30(外賣)/$32(堂食)</value>
+            <value/>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value/>
+            <value>$46</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value>$39</value>
+            <value/>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
@@ -38238,11 +38331,11 @@
       </Placemark>
       <Placemark>
         <name>(葵芳)人人有飯開</name>
-        <description><![CDATA[時間戳記: 2022/10/12<br>區域: 葵青區<br>街道(請盡量提供街號): 葵芳興芳路208號<br>商場／大廈: 葵芳滙<br>店號/單位號碼: 地下5號舖<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $32<br>價錢(每加一餸): <br>價錢(三餸飯): $38<br>價錢(四餸飯): <br>價錢(淨餸): $40<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: <br>價錢(例湯): <br>有無飲品（啡／茶）供應？: <br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: 學生優惠 （需出示學生證）購買兩餸飯 $32 送紙包飲品一盒<br>Latitude: 22.3589354<br>Longitude: 114.1271595]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 葵青區<br>街道(請盡量提供街號): 葵芳興芳路208號<br>商場／大廈: 葵芳滙<br>店號/單位號碼: 地下5號舖<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $34<br>價錢(每加一餸): <br>價錢(三餸飯): $38<br>價錢(四餸飯): <br>價錢(淨餸): $42<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: <br>價錢(例湯): <br>有無飲品（啡／茶）供應？: <br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: 學生優惠 （需出示學生證）購買兩餸飯 $32 送紙包飲品一盒<br>Latitude: 22.3589354<br>Longitude: 114.1271595]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/10/12</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>葵青區</value>
@@ -38263,7 +38356,7 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$32</value>
+            <value>$34</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
@@ -38275,7 +38368,7 @@
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value>$40</value>
+            <value>$42</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
@@ -42609,11 +42702,11 @@
       </Placemark>
       <Placemark>
         <name>(鰂魚涌)南苑美食</name>
-        <description><![CDATA[時間戳記: 2022/10/14<br>區域: 東區<br>街道(請盡量提供街號): 鰂魚涌芬尼街2B<br>商場／大廈: <br>店號/單位號碼: 地舖<br>推介菜(最多三項): 煎鯖魚 炸鷄翼 釀豆腐<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $40<br>價錢(每加一餸): <br>價錢(三餸飯): $46<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): 送例湯<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 罐裝汽水，紙包飲品，檸茶豆漿<br>價錢(飲品): 送飲品<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: 夫妻檔住家菜口味，份量頗大，自稱不落味精，食住都無咩味精味。$40雙餸$46三餸，包例湯或飲品，款式會日日變化，大約有二十多樣。<br>Latitude: 22.2882201<br>Longitude: 114.2104248]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 東區<br>街道(請盡量提供街號): 鰂魚涌芬尼街2B<br>商場／大廈: <br>店號/單位號碼: 地舖<br>推介菜(最多三項): 煎鯖魚 炸鷄翼 釀豆腐<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $40<br>價錢(每加一餸): <br>價錢(三餸飯): $46<br>價錢(四餸飯): <br>價錢(淨餸): $46<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): 送例湯<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 罐裝汽水，紙包飲品，檸茶豆漿<br>價錢(飲品): 送飲品<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: 夫妻檔住家菜口味，份量頗大，自稱不落味精，食住都無咩味精味。$40雙餸$46三餸，包例湯或飲品，款式會日日變化，大約有二十多樣。<br>Latitude: 22.2882201<br>Longitude: 114.2104248]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/10/14</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>東區</value>
@@ -42646,7 +42739,7 @@
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value/>
+            <value>$46</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
@@ -43539,11 +43632,11 @@
       </Placemark>
       <Placemark>
         <name>(灣仔)佳記美食</name>
-        <description><![CDATA[時間戳記: 2022/2/15<br>區域: 灣仔區<br>街道(請盡量提供街號): 軒尼詩道233號<br>商場／大廈: 怡明閣<br>店號/單位號碼: 地下<br>推介菜(最多三項): 梅菜扣肉，咕嚕肉，肉餅<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $35<br>價錢(每加一餸): <br>價錢(三餸飯): $44<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): $2<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 奶茶,檸茶<br>價錢(飲品): $2<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 20<br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.2780657<br>Longitude: 114.1757349]]></description>
+        <description><![CDATA[時間戳記: 2024/3/3<br>區域: 灣仔區<br>街道(請盡量提供街號): 軒尼詩道233號<br>商場／大廈: 怡明閣<br>店號/單位號碼: 地下<br>推介菜(最多三項): 梅菜扣肉，咕嚕肉，肉餅<br>中伏菜式(最多三項): <br>價錢(兩餸飯): $37<br>價錢(每加一餸): <br>價錢(三餸飯): $46<br>價錢(四餸飯): <br>價錢(淨餸): $45<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): $2<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 奶茶,檸茶<br>價錢(飲品): $2<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 有<br>座位數量 (如適用): 20<br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.2780657<br>Longitude: 114.1757349]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
-            <value>2022/2/15</value>
+            <value>2024/3/3</value>
           </Data>
           <Data name="區域">
             <value>灣仔區</value>
@@ -43564,19 +43657,19 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$35</value>
+            <value>$37</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$44</value>
+            <value>$46</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value/>
+            <value>$45</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
@@ -47166,7 +47259,7 @@
       </Placemark>
       <Placemark>
         <name>(鑽石山)明興美食</name>
-        <description><![CDATA[時間戳記: 2023/12/15<br>區域: 黃大仙區<br>街道(請盡量提供街號): 鑽石山鳳德道111號<br>商場／大廈: 鳳德街市<br>店號/單位號碼: CF6號舖<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $30<br>價錢(每加一餸): <br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): $40<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): 跟餐<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 紙包飲品<br>價錢(飲品): 跟餐<br>營業時間（開門): 上午 11:00:00<br>營業時間（關門): 下午 9:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3443677<br>Longitude: 114.2012804]]></description>
+        <description><![CDATA[時間戳記: 2023/12/15<br>區域: 黃大仙區<br>街道(請盡量提供街號): 鑽石山鳳德道111號<br>商場／大廈: 鳳德街市<br>店號/單位號碼: CF6號舖<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $32<br>價錢(每加一餸): <br>價錢(三餸飯): $42<br>價錢(四餸飯): <br>價錢(淨餸): $42<br>淨餸可否雙併?: 可以<br>價錢(白飯): $10<br>有無例湯供應？: 有<br>價錢(例湯): 跟餐<br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: 紙包飲品<br>價錢(飲品): 跟餐<br>營業時間（開門): 上午 11:00:00<br>營業時間（關門): 下午 9:00:00<br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3443677<br>Longitude: 114.2012804]]></description>
         <styleUrl>#icon-1640-3949AB-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
@@ -47191,25 +47284,25 @@
             <value/>
           </Data>
           <Data name="價錢(兩餸飯)">
-            <value>$30</value>
+            <value>$32</value>
           </Data>
           <Data name="價錢(每加一餸)">
             <value/>
           </Data>
           <Data name="價錢(三餸飯)">
-            <value>$40</value>
+            <value>$42</value>
           </Data>
           <Data name="價錢(四餸飯)">
             <value/>
           </Data>
           <Data name="價錢(淨餸)">
-            <value>$40</value>
+            <value>$42</value>
           </Data>
           <Data name="淨餸可否雙併?">
             <value>可以</value>
           </Data>
           <Data name="價錢(白飯)">
-            <value/>
+            <value>$10</value>
           </Data>
           <Data name="有無例湯供應？">
             <value>有</value>
