@@ -29775,7 +29775,7 @@
       </Placemark>
       <Placemark>
         <name>(茘枝角)亮仔食堂</name>
-        <description><![CDATA[時間戳記: 2023/9/17<br>區域: 深水埗區<br>街道(請盡量提供街號): 長沙灣長沙灣道638號<br>商場／大廈: 長盛豪苑<br>店號/單位號碼: 地下B-C鋪<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $38<br>價錢(每加一餸): <br>價錢(三餸飯): <br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): 上午 7:00:00<br>營業時間（關門): 下午 5:00:00<br>堂食: 有<br>座位數量 (如適用): 24<br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.339082<br>Longitude: 114.1512615]]></description>
+        <description><![CDATA[時間戳記: 2023/9/17<br>區域: 深水埗區<br>街道(請盡量提供街號): 長沙灣長沙灣道638號<br>商場／大廈: 長盛豪苑<br>店號/單位號碼: 地下B-C鋪<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $38<br>價錢(每加一餸): <br>價錢(三餸飯): <br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: 有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): 上午 7:00:00<br>營業時間（關門): 下午 5:00:00<br>堂食: 有<br>座位數量 (如適用): 24<br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.338566<br>Longitude: 114.1525396]]></description>
         <styleUrl>#icon-1640-C2185B-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
@@ -29854,15 +29854,15 @@
             <value/>
           </Data>
           <Data name="Latitude">
-            <value>22.339082</value>
+            <value>22.338566</value>
           </Data>
           <Data name="Longitude">
-            <value>114.1512615</value>
+            <value>114.1525396</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            114.1512615,22.339082,0
+            114.1525396,22.338566,0
           </coordinates>
         </Point>
       </Placemark>
