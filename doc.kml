@@ -13593,7 +13593,7 @@
       </Placemark>
       <Placemark>
         <name>(屯門)雞中寶</name>
-        <description><![CDATA[時間戳記: 2022/1/15<br>區域: 屯門區<br>街道(請盡量提供街號): 龍門居<br>商場／大廈: 龍門居商場<br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $35<br>價錢(每加一餸): <br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): 單：40，雙：50，三：60<br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: <br>價錢(例湯): <br>有無飲品（啡／茶）供應？: <br>飲品選擇: 包紙包飲品<br>價錢(飲品): 汽水加5<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.38479<br>Longitude: 113.9663157]]></description>
+        <description><![CDATA[時間戳記: 2022/1/15<br>區域: 屯門區<br>街道(請盡量提供街號): 龍門居<br>商場／大廈: 龍門居商場<br>店號/單位號碼: <br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $35<br>價錢(每加一餸): <br>價錢(三餸飯): $40<br>價錢(四餸飯): <br>價錢(淨餸): 單：40，雙：50，三：60<br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: <br>價錢(例湯): <br>有無飲品（啡／茶）供應？: <br>飲品選擇: 包紙包飲品<br>價錢(飲品): 汽水加5<br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.3854348<br>Longitude: 113.966541]]></description>
         <styleUrl>#icon-1640-C2185B-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
@@ -13672,15 +13672,15 @@
             <value/>
           </Data>
           <Data name="Latitude">
-            <value>22.38479</value>
+            <value>22.3854348</value>
           </Data>
           <Data name="Longitude">
-            <value>113.9663157</value>
+            <value>113.966541</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            113.9663157,22.38479,0
+            113.966541,22.3854348,0
           </coordinates>
         </Point>
       </Placemark>
@@ -18150,7 +18150,7 @@
       </Placemark>
       <Placemark>
         <name>(西灣河)良記美食</name>
-        <description><![CDATA[時間戳記: 2023/9/17<br>區域: 東區<br>街道(請盡量提供街號): 西灣河筲箕灣道57-87號<br>商場／大廈: 太安樓<br>店號/單位號碼: 第二街A29B<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $35<br>價錢(每加一餸): <br>價錢(三餸飯): $45<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: <br>價錢(例湯): <br>有無飲品（啡／茶）供應？: <br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.2828742<br>Longitude: 114.2220997]]></description>
+        <description><![CDATA[時間戳記: 2023/9/17<br>區域: 東區<br>街道(請盡量提供街號): 西灣河筲箕灣道57-87號<br>商場／大廈: 太安樓<br>店號/單位號碼: 第二街A29B<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $35<br>價錢(每加一餸): <br>價錢(三餸飯): $45<br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: <br>價錢(例湯): <br>有無飲品（啡／茶）供應？: <br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: 無<br>補充資料／評價: <br>Latitude: 22.2825565<br>Longitude: 114.2220487]]></description>
         <styleUrl>#icon-1640-C2185B-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
@@ -18229,15 +18229,15 @@
             <value/>
           </Data>
           <Data name="Latitude">
-            <value>22.2828742</value>
+            <value>22.2825565</value>
           </Data>
           <Data name="Longitude">
-            <value>114.2220997</value>
+            <value>114.2220487</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            114.2220997,22.2828742,0
+            114.2220487,22.2825565,0
           </coordinates>
         </Point>
       </Placemark>
@@ -18336,7 +18336,7 @@
       </Placemark>
       <Placemark>
         <name>(西灣河)滋味屋</name>
-        <description><![CDATA[時間戳記: 2022/1/14<br>區域: 東區<br>街道(請盡量提供街號): 西灣河筲箕灣道57-87號<br>商場／大廈: 太安樓<br>店號/單位號碼: 地下A32A號舖<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $40<br>價錢(每加一餸): 5 （還有一些另類餸菜要加錢）<br>價錢(三餸飯): $45<br>價錢(四餸飯): $50<br>價錢(淨餸): 40 起跳<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.2828742<br>Longitude: 114.2220997]]></description>
+        <description><![CDATA[時間戳記: 2022/1/14<br>區域: 東區<br>街道(請盡量提供街號): 西灣河筲箕灣道57-87號<br>商場／大廈: 太安樓<br>店號/單位號碼: 地下A32A號舖<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): $40<br>價錢(每加一餸): 5 （還有一些另類餸菜要加錢）<br>價錢(三餸飯): $45<br>價錢(四餸飯): $50<br>價錢(淨餸): 40 起跳<br>淨餸可否雙併?: 可以<br>價錢(白飯): <br>有無例湯供應？: 沒有<br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: <br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: <br>Latitude: 22.283038<br>Longitude: 114.221987]]></description>
         <styleUrl>#icon-1640-C2185B-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
@@ -18415,15 +18415,15 @@
             <value/>
           </Data>
           <Data name="Latitude">
-            <value>22.2828742</value>
+            <value>22.283038</value>
           </Data>
           <Data name="Longitude">
-            <value>114.2220997</value>
+            <value>114.221987</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            114.2220997,22.2828742,0
+            114.221987,22.283038,0
           </coordinates>
         </Point>
       </Placemark>
@@ -44283,7 +44283,7 @@
       </Placemark>
       <Placemark>
         <name>(鰂魚涌)凝香園</name>
-        <description><![CDATA[時間戳記: 2022/6/2<br>區域: 東區<br>街道(請盡量提供街號): 海光街13號<br>商場／大廈: 海光苑<br>店號/單位號碼: 22A鋪<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): <br>價錢(每加一餸): <br>價錢(三餸飯): <br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: <br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: 紙包飲品，樽裝水<br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: 水準尚可，番工平價午餐之選<br>Latitude: 22.28789845<br>Longitude: 114.21103]]></description>
+        <description><![CDATA[時間戳記: 2022/6/2<br>區域: 東區<br>街道(請盡量提供街號): 海光街13號<br>商場／大廈: 海光苑<br>店號/單位號碼: 22A鋪<br>推介菜(最多三項): <br>中伏菜式(最多三項): <br>價錢(兩餸飯): <br>價錢(每加一餸): <br>價錢(三餸飯): <br>價錢(四餸飯): <br>價錢(淨餸): <br>淨餸可否雙併?: <br>價錢(白飯): <br>有無例湯供應？: <br>價錢(例湯): <br>有無飲品（啡／茶）供應？: 沒有<br>飲品選擇: 紙包飲品，樽裝水<br>價錢(飲品): <br>營業時間（開門): <br>營業時間（關門): <br>堂食: 沒有<br>座位數量 (如適用): <br>外賣平台: <br>補充資料／評價: 水準尚可，番工平價午餐之選<br>Latitude: 22.2880995<br>Longitude: 114.2102428]]></description>
         <styleUrl>#icon-1640-C2185B-labelson</styleUrl>
         <ExtendedData>
           <Data name="時間戳記">
@@ -44362,15 +44362,15 @@
             <value>水準尚可，番工平價午餐之選</value>
           </Data>
           <Data name="Latitude">
-            <value>22.28789845</value>
+            <value>22.2880995</value>
           </Data>
           <Data name="Longitude">
-            <value>114.21103</value>
+            <value>114.2102428</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            114.21103,22.28789845,0
+            114.2102428,22.2880995,0
           </coordinates>
         </Point>
       </Placemark>
