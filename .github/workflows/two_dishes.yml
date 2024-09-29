@@ -54,8 +54,8 @@ jobs:
       - name: Remove existing images folder
         run: rm -rf images
 
-      - name: Extract some files
-        run: unzip data/香港兩餸飯地圖.zip
+      # - name: Extract some files
+      #   run: unzip data/香港兩餸飯地圖.zip
 
       - name: Commit and Push Changes
         if: steps.check-csv.outcome == 'success' && env.DIFFERENT_CSV == 'true'
